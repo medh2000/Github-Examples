@@ -1,4 +1,4 @@
-name: multi-events wf
+name: multi-events wf template
 
 on:
   push:
