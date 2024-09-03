@@ -17,3 +17,5 @@ jobs:
           echo "Job ID: $GITHUB_JOB"
           echo "Action: $GITHUB_ACTION"
           echo "Actor: $GITHUB_ACTOR"
+          echo "Repos: $GITHUB_REPOSITORY"
+          echo "Github api url: $GITHUB_API_URL"
