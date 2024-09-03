@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  hello_world:
+  multi_event:
     runs-on: ubuntu-latest
     steps:
       - name: "Echo Basic Information"
